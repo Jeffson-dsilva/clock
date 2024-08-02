@@ -29,6 +29,7 @@ body {
   
   .clock .number1 {
     --rotation: 30deg;
+      transform:rotate(30deg);
   }
   .clock .number2 {
     --rotation: 60deg;
