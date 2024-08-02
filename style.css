@@ -28,47 +28,47 @@ body {
   }
   
   .clock .number1 {
-    rotation: 30deg;
+    --rotation: 30deg;
     transform:rotate(30deg);
   }
   .clock .number2 {
-    rotation: 60deg;
+    --rotation: 60deg;
     transform:rotate(60deg);
   }
   .clock .number3 {
-    rotation: 90deg;
+    --rotation: 90deg;
     transform:rotate(90deg);
   }
   .clock .number4 {
-    rotation: 120deg;
+    --rotation: 120deg;
     transform:rotate(120deg);
   }
   .clock .number5 {
-    rotation: 150deg;
+    --rotation: 150deg;
     transform:rotate(150deg);
   }
   .clock .number6 {
-    rotation: 180deg;
+    --rotation: 180deg;
     transform:rotate(180deg);
   }
   .clock .number7 {
-    rotation: 210deg;
+    --rotation: 210deg;
     transform:rotate(210deg);
   }
   .clock .number8 {
-    rotation: 240deg;
+    --rotation: 240deg;
     transform:rotate(240deg);
   }
   .clock .number9 {
-    rotation: 270deg;
+    --rotation: 270deg;
     transform:rotate(270deg);
   }
   .clock .number10 {
-    rotation: 300deg;
+    --rotation: 300deg;
     transform:rotate(300deg);
   }
   .clock .number11 {
-    rotation: 330deg;
+    --rotation: 330deg;
     transform:rotate(330deg);
   }
   
